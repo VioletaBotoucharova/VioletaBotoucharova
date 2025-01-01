@@ -10,11 +10,11 @@ I love coding and learning more about new technologies.
 <ul>
 <li><i>Python</i></li>
 </ul>
-I'm learning about <i>Python</i> in SoftUni since may 2024. 
+I have been learning about <i>Python</i> in SoftUni since may 2024. 
 <ul>
 <li><i>HTML and CSS</i></li>
 </ul>
-I have also studied <i>html and css</i>. I learned about them at Telerik Academy and I have several projects about them.<br>
+I also have substantial knowledge about <i>html and css</i> which I have obtained at Telerik Academy and have used several projects.<br>
 
 <h4>🚀 Languages and Tools I Use</h4>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32" /></a>
