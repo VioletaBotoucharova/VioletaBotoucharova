@@ -3,7 +3,7 @@
 <h3>About Me:</h3>
 I'm 17 years old from Sofia, Bulgaria!<br>
 I'm a student at: <i>32. "ST. KLIMENT OHRIDSKI"</i><br>
-I love coding and learning more about Python.
+I love coding and learning more about new technologies.
 
 
 <h2>💻 I'm Currently Learning!</h2>
