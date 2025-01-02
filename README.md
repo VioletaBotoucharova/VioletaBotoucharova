@@ -25,5 +25,5 @@ I also have substantial knowledge about <i>html and css</i> which I have obtaine
 
 <img alt="my stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=violetabotoucharova&theme=dark&show_icons=true"/>
 
-<img alt="top langs" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=violetabotoucharova&show_icons=true&theme=radical"/>
+<img alt="top langs" align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=violetabotoucharova&show_icons=true&theme=radical"/>
 
