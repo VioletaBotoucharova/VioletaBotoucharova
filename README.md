@@ -25,3 +25,5 @@ I also have substantial knowledge about <i>html and css</i> which I have obtaine
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetabotoucharova)](https://github.com/violetabotoucharova/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=violetabotoucharova)](https://github.com/violetabotoucharova/github-readme-stats)
+
