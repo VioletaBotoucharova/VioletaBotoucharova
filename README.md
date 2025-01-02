@@ -25,5 +25,5 @@ I also have substantial knowledge about <i>html and css</i> which I have obtaine
 
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=violetabotoucharova"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=violetabotoucharova&layout=compact)](https://github.com/violetabotoucharova/github-readme-stats&layout=compact)
+<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=violetabotoucharova&layout=compact"/>
 
