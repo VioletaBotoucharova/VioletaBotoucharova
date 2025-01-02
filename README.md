@@ -24,3 +24,5 @@ I also have substantial knowledge about <i>html and css</i> which I have obtaine
 <p><a target="_blank" href="https://www.instagram.com/vili_1811" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VioletaBotoucharova&" alt="VioletaBotoucharova" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=VioletaBotoucharova&show_icons=true&locale=en&layout=compact" alt="VioletaBotoucharova" /></p>
+![Languages](https://img.shields.io/github/languages/count/OWNER/REPOSITORY)
+
