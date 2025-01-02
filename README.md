@@ -23,7 +23,7 @@ I also have substantial knowledge about <i>html and css</i> which I have obtaine
 <h4>⚡️ Where to find me</h4>
 <p><a target="_blank" href="https://www.instagram.com/vili_1811" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=violetabotoucharova"/>
+<img alt="my stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=violetabotoucharova"/>
 
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=violetabotoucharova&layout=compact"/>
+<img alt="top langs" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=violetabotoucharova&layout=compact"/>
 
