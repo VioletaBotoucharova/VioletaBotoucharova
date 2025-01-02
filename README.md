@@ -14,7 +14,7 @@ I have been learning about <i>Python</i> in SoftUni since may 2024.
 <ul>
 <li><i>HTML and CSS</i></li>
 </ul>
-I also have substantial knowledge about <i>html and css</i> which I have obtained at Telerik Academy and have used several projects.<br>
+I also have substantial knowledge about <i>html and css</i> which I have obtained at Telerik Academy and have used in several projects.<br>
 
 <h4>🚀 Languages and Tools I Use</h4>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32" /></a>
